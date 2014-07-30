@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.29)  29 JUL 2014 23:22
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.29)  30 JUL 2014 19:57
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -179,122 +179,128 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
 Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/share/texmf-texlive/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks21
+\extratabsurround=\skip44
+\backup@length=\skip45
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 10.
+\TX@col@width=\dimen113
+\TX@old@table=\dimen114
+\TX@old@col=\dimen115
+\TX@target=\dimen116
+\TX@delta=\dimen117
+\TX@cols=\count96
+\TX@ftn=\toks22
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 11.
 
 
 LaTeX Warning: Unused global option(s):
     [10pt].
 
 No file resume.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-Package hyperref Info: Link coloring OFF on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+Package hyperref Info: Link coloring OFF on input line 12.
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count96
+\c@section@level=\count97
 )
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
 \AtBeginShipoutBox=\box26
 
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count97
-\scratchdimen=\dimen111
+\scratchcounter=\count98
+\scratchdimen=\dimen118
 \scratchbox=\box27
-\nofMPsegments=\count98
-\nofMParguments=\count99
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count100
-\MPscratchDim=\dimen112
-\MPnumerator=\count101
-\everyMPtoPDFconversion=\toks22
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen119
+\MPnumerator=\count102
+\everyMPtoPDFconversion=\toks24
 ) <logo.jpg, id=3, 225.84375pt x 225.84375pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Overfull \hbox (8.64775pt too wide) in paragraph at lines 15--16
+Overfull \hbox (2.2741pt too wide) in paragraph at lines 16--17
 []| [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
+(Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
-
-Overfull \hbox (1.23206pt too wide) in paragraph at lines 58--60
-[]\OT1/cmr/m/n/10 Secured Na-tional \OT1/cmr/bx/n/10 top 1% \OT1/cmr/m/n/10 in 
-Na-tional Stan-dard Ex-am-i-na-tions in Physics(\OT1/cmr/bx/n/10 NSEP\OT1/cmr/m
-/n/10 ) [] 
- []
-
-
-Overfull \hbox (15.37132pt too wide) in paragraph at lines 60--61
-\OT1/cmr/m/n/10 2011 in Na-tional Cy-ber Olympiad (\OT1/cmr/bx/n/10 NCO\OT1/cmr
-/m/n/10 ) or-gan-ised by Sci-ence Olympiad [] 
- []
-
+(Font)              <5> on input line 22.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 93--97
+Underfull \hbox (badness 10000) in paragraph at lines 102--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--102
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--108
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--113
+Underfull \hbox (badness 10000) in paragraph at lines 118--122
 
  []
 
 [2] ) 
 Here is how much of TeX's memory you used:
- 4247 strings out of 495061
- 61609 string characters out of 1182620
- 135103 words of memory out of 3000000
- 7394 multiletter control sequences out of 15000+50000
+ 4335 strings out of 495061
+ 62647 string characters out of 1182620
+ 136103 words of memory out of 3000000
+ 7476 multiletter control sequences out of 15000+50000
  7163 words of font info for 26 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,8n,21p,314b,314s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,9n,21p,314b,314s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf
 -texlive/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-texlive/
 fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type
 1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
-fonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl
-10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsltt10.pfb></
-usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
-exmf-texlive/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type
-1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (2 pages, 194343 bytes).
+fonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsltt10.pfb></usr/share/tex
+mf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb>
+Output written on resume.pdf (2 pages, 201925 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

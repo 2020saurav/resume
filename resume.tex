@@ -2,6 +2,7 @@
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{setspace}
+\usepackage{tabularx}
 \linespread{1.3}
 \renewcommand{\baselinestretch}{1.2}
 \hypersetup{
@@ -12,7 +13,7 @@
 
 \name{\Large Saurav Kumar}
 
-\hspace*{12.8cm}\vspace*{-1.3cm}\includegraphics[width=0.12\textwidth]{logo.jpg}
+\hspace*{14.6cm}\vspace*{-1.3cm}\includegraphics[width=0.12\textwidth]{logo.jpg}
 
 % \address used twice to have two lines of address
 \address{\\\small Third Year Undergraduate\\\small Computer Science and Engineering \\\small Indian Institute of Technology Kanpur }
@@ -23,10 +24,19 @@
 \section{\mysidestyle Education}
 \vspace{2mm}
 
+% \begin{tabularx}{\textwidth}{X|l}
+% \textbf{sdf} & \textbf{sfds}\\
+% \hline
+% dfgssg & h\\
+% \hline
+% \end{tabularx}
+
 \begin{table}[h]
+%\newcolumntype{L}[1]{>{\hsize=#1\hsize\raggedright\arraybackslash}X}
 \renewcommand{\arraystretch}{1.5}
 \vspace{5mm}
-\begin{tabular}{lllll}
+%\begin{tabular}{lllll}
+\begin{tabularx}{\textwidth}{X X l c c}
 \hline
 
 EXAMINATION      & UNIVERSITY & INSTITUTE          & YEAR           & CPI/\%    \\ \hline
@@ -37,7 +47,7 @@ Intermediate(+2) & CBSE       & Chinmaya Vidyalaya & 2012           & 94.8\%    
 
 Matriculation    & CBSE       & Chinmaya Vidyalaya & 2010           & 10.0/10.0    \\ \hline
 
-\end{tabular}
+\end{tabularx}
 
 {\vspace{2mm}\small * at the end of fourth semester.}
 \end{table}
@@ -49,11 +59,12 @@ Matriculation    & CBSE       & Chinmaya Vidyalaya & 2010           & 10.0/10.0 
 \begin{spacing}{1.4}
 \renewcommand{\baselinestretch}{1.3}
 
-\item \textbf{All India Rank 187} in IITJEE-2012 among 4.5 lakh students.
+\item Secured\textbf{All India Rank 187} in IITJEE-2012 among 4.5 lakh students.
 \item Secured \textbf{All India Rank 97} in AIEEE-2012 among 1.2 million students.
 \item Qualified for \textbf{ACM ICPC} (International Collegiate Programming Contest) \mbox{Amritapuri} Regionals 2013.
 \item Shortlisted for the \textbf{Aditya Birla Scholarships} in 2012.
 \item Awarded \textbf{Best Student (Academics)} Award 2012 by Chinmaya Vidyalaya, Bokaro.
+\item Stood National \textbf{top 1\%} in \textbf{CBSE} Senior School Certificate Examination 2012.
 \item Declared successful in \textbf{Indian National Mathematical Olympiad} (INMO) in 2011 and in 2012, conducted by Homi Bhabha Centre for Science Education (\textbf{HBCSE}).
 \item Secured National \textbf{top 1\%} in National Standard Examinations in
 Physics(\textbf {NSEP}) \mbox{2011-12,} \\Chemistry (\textbf {NSEC}) 2011-12 and Astronomy (\textbf{NSEA}) 2011-12 conducted by \textbf{HBCSE}.	
@@ -62,7 +73,7 @@ Physics(\textbf {NSEP}) \mbox{2011-12,} \\Chemistry (\textbf {NSEC}) 2011-12 and
 \item Awarded \textbf{DST Medal} in IGNOU-UNESCO Science Olympiad 2010.
 \item Awarded \textbf{KVPY (Kishore Vaigyanik Protsahan Yojna) Fellowship} in 2010
 by Department of Science and Technology, Government of India.
-\item Awarded \textbf{NTSE Scholarship} based on National Talent Search Examination 2008 by NCERT, Government of India.
+\item Awarded \textbf{NTSE Scholarship} based on National Talent Search Examination in 2008 by NCERT,\\ Government of India.
 \end{spacing}
 \end{list2}
 \vspace{-5mm}
@@ -84,11 +95,9 @@ by Department of Science and Technology, Government of India.
 
 \end{list2}
 \newpage
-
+\vspace*{0.4cm}
 \section{\mysidestyle Projects and Developments }
-
 \begin{list2}
-
 % add techkriti vhdl
 \item \textbf{[Hardware Description Language] Implementation of Hilbert Transformation}\\
 	\textsl{Electronic Circuit Design Competition in Techkriti'14} \hfill \emph{March 2014}\\
@@ -113,11 +122,10 @@ Github Link: \url{http://github.com/2020saurav/raspi}\\
 
 \end{list2}
 \section{\mysidestyle Skills and\\Interests } 
-\vspace{2mm}
 \begin{list2}
 \item \emph{\textbf {Languages:}} C, C++, Python, Perl, Java, Bash, Verilog, Assembly
 \item \emph{\textbf{Web Development:}} NodeJS, Yii, PHP, HTML, XML, CSS, MySQL, MongoDB
-\item \emph{\textbf{Other:}} Android, Latex, GNU Octave, Git, OpenCV
+\item \emph{\textbf{Other:}} Android, \LaTeX, GNU Octave, Git, OpenCV
 \end{list2}
 
 

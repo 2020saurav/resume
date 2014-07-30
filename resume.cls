@@ -778,7 +778,7 @@
 \headsep 0pt
 \textheight 9in
 \parindent 0pt
-\topmargin -0.6in
+\topmargin -0.8in
 \oddsidemargin 0pt
 \evensidemargin 0pt
 \marginparwidth 0pt
@@ -813,10 +813,10 @@
 %           and res.cls class by Michael DeCorte.
 %           I have merged these for educational purposes only.
 
-\oddsidemargin -4mm
+\oddsidemargin -15mm
 \evensidemargin -0mm
 %\textwidth=150mm
-\textwidth=142mm
+\textwidth=165mm
 \itemsep=0cm
 \parsep=0cm
 %\topmargin -12mm
